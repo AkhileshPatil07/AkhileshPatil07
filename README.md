@@ -3,23 +3,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Akhilesh%20Patil&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&&descAlign=50&descAlignY=58&descSize=18" alt="Arvind Singh profile hero" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Akhilesh%20Patil&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&descAlign=50&descAlignY=58&descSize=18" alt="Akhilesh Patil profile hero banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-💼 A **Data Analyst** with hands-on experience in **SQL, Python, and Power BI**.  
+</div>
+
+💼 A **Data Analyst** with hands-on experience in **SQL, Python, and Power BI**.
 🔭 Currently working as a **Data Science Intern**, transitioning into advanced **Machine Learning and Forecasting** workflows.
 
 ### 🚀 What Defines Me as an Aspiring Data Scientist
-* ✔ Skilled in **building predictive models** using Regression, ARIMA, and ensemble methods like Random Forest & XGBoost.
-* ✔ Strong focus on **data cleaning, feature engineering, and automation** to streamline analytics workflows.
-* ✔ Ability to translate **complex datasets into clear, actionable business insights** through dashboards and reports.
-* ✔ Thrive in **fast-paced, collaborative environments**, bridging the gap between raw data and business decisions.
+- ✔ Skilled in **building predictive models** using Regression, ARIMA, and ensemble methods like Random Forest & XGBoost.
+- ✔ Strong focus on **data cleaning, feature engineering, and automation** to streamline analytics workflows.
+- ✔ Ability to translate **complex datasets into clear, actionable business insights** through dashboards and reports.
+- ✔ Thrive in **fast-paced, collaborative environments**, bridging the gap between raw data and business decisions.
 
-💬 **Ask Me About:** Data Analysis, Machine Learning, Forecasting, Power BI, and transitioning from Data Analyst to Data Scientist.  
-📫 **Reach Me At:** [akhileshpatil0708@gmail.com]
+💬 **Ask Me About:** Data Analysis, Machine Learning, Forecasting, Power BI, and transitioning from Data Analyst to Data Scientist.
+📫 **Reach Me At:** [akhileshpatil0708@gmail.com](mailto:akhileshpatil0708@gmail.com)
 
 ⚡ **Fun fact:** I treat every dataset like a puzzle — I don't stop until the numbers tell a clear story.
 
@@ -27,7 +29,7 @@
 
 ## 🛠️ Languages and Tools
 
-<h3 align="left">Languages & Frameworks:</h3>
+<h3 align="left">Languages & Frameworks</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
@@ -38,14 +40,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
 </p>
 
-<h3 align="left">Data, BI & Analytics:</h3>
+<h3 align="left">Data, BI & Analytics</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
 </p>
 
-<h3 align="left">Development Tools:</h3>
+<h3 align="left">Development Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
@@ -57,15 +59,28 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **Laptop Price Prediction Model** — ML model (Regression, Random Forest, XGBoost) predicting laptop prices based on specifications, deployed via Streamlit.
-- 🔹 **Spam Email Classifier** — NLP-based text classification model (TF-IDF + Naive Bayes/SVM) to detect spam vs. legitimate emails, achieving ~97% classification accuracy.
-- 🔹 **Power BI Sales Dashboard** — Interactive dashboard tracking revenue, stock levels, and SKU performance across 10+ store locations.
+| Project | Description | Tech |
+|---|---|---|
+| 🔹 **Laptop Price Prediction Model** | ML model predicting laptop prices from specifications, deployed via Streamlit. | Regression, Random Forest, XGBoost |
+| 🔹 **Spam Email Classifier** | NLP-based text classification detecting spam vs. legitimate emails at ~97% accuracy. | TF-IDF, Naive Bayes, SVM |
+| 🔹 **Power BI Sales Dashboard** | Interactive dashboard tracking revenue, stock levels, and SKU performance across 10+ stores. | Power BI, DAX, SQL |
 
 ---
 
-## 📊 GitHub Language Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvindSingh1099&theme=tokyonight&hide_border=true" alt="GitHub streak stats for ArvindSingh1099" width="72%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhileshPatil07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhilesh's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshPatil07&theme=tokyonight&hide_border=true" alt="Akhilesh's GitHub streak stats" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshPatil07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhileshPatil07&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</div>
 
 ---
 
