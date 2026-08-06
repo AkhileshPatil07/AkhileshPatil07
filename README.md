@@ -1,7 +1,9 @@
 <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=AkhileshPatil07&color=blue&style=flat)
 
-## 👋 Hi there, I'm **Akhilesh Patil**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Akhilesh%20Patil&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&&descAlign=50&descAlignY=58&descSize=18" alt="Arvind Singh profile hero" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
@@ -63,9 +65,7 @@
 
 ## 📊 GitHub Language Stats
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshPatil07&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvindSingh1099&theme=tokyonight&hide_border=true" alt="GitHub streak stats for ArvindSingh1099" width="72%" />
 
 ---
 
@@ -83,3 +83,7 @@
 ---
 
 <p align="center"><i>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.</i></p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" width="100%" />
+</div>
