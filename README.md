@@ -11,7 +11,7 @@
 
 </div>
 
-💼 A **Data Analyst** with hands-on experience in **SQL, Python, and Power BI**.
+💼 A **Data Analyst** with hands-on experience in **SQL, Python, and Power BI**.            
 🔭 Currently working as a **Data Science Intern**, transitioning into advanced **Machine Learning and Forecasting** workflows.
 
 ### 🚀 What Defines Me as an Aspiring Data Scientist
@@ -68,12 +68,21 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhileshPatil07&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- Personal Stats -->
-<p align="Left">
+<p align="left">
   <img
-    src="https://streak-stats.demolab.com/?user=AkhileshPatil07&theme=prussian&hide_border=false"
+    src="https://streak-stats.demolab.com?user=AkhileshPatil07&background=0A0F08&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideNums=FFFFFF&currStreakNum=8AFF57&sideLabels=CAFF3C&dates=8AFF57&border=1A2B0A"
     height="165"
   />
 </p>
