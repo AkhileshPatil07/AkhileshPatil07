@@ -42,9 +42,10 @@
 
 <h3 align="left">Data, BI & Analytics</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powerbi" />  
+  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="tableau" /> 
 </p>
 
 <h3 align="left">Development Tools</h3>
@@ -69,18 +70,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhileshPatil07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akhilesh's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshPatil07&theme=tokyonight&hide_border=true" alt="Akhilesh's GitHub streak stats" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshPatil07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhileshPatil07&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
+<!-- Personal Stats -->
+<p align="Left">
+  <img
+    src="https://streak-stats.demolab.com/?user=AkhileshPatil07&theme=prussian&hide_border=false"
+    height="165"
+  />
+</p>
 
 ---
 
