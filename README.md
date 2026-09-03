@@ -71,9 +71,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhileshPatil07&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
-
+<img src="github-contribution-grid-graph.svg" alt="activity-graph" />
 </div>
 
 ---
