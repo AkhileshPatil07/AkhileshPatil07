@@ -1,0 +1,31 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # har 6 ghante me chalega
+  workflow_dispatch:         # Actions tab se manually bhi chala sakte ho
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download activity graph SVG
+        run: |
+          curl -s -f -o activity-graph.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=AkhileshPatil07&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" \
+          || echo "Fetch failed, keeping previous graph"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -f activity-graph.svg ]; then
+            git add activity-graph.svg
+            git diff --staged --quiet || git commit -m "Update activity graph"
+            git push
+          fi
