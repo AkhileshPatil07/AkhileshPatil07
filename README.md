@@ -112,9 +112,7 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhileshPatil07&theme=github-compact&hide_border=true&area=true&radius=12&height=320&days=30&custom_title=Daily%20Coding%20Activity" alt="activity graph" />
-</div>
+<img src="https://activity-graph.vercel.app/graph?username=AkhileshPatil07&theme=github-compact&hide_border=true&area=true&radius=12&height=320&days=30&custom_title=Daily%20Coding%20Activity" alt="activity graph" />
 
 ---
 
