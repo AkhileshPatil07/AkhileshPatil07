@@ -60,11 +60,53 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔹 **Laptop Price Prediction Model** | ML model predicting laptop prices from specifications, deployed via Streamlit. | Regression, Random Forest, XGBoost |
-| 🔹 **Spam Email Classifier** | NLP-based text classification detecting spam vs. legitimate emails at ~97% accuracy. | TF-IDF, Naive Bayes, SVM |
-| 🔹 **Power BI Sales Dashboard** | Interactive dashboard tracking revenue, stock levels, and SKU performance across 10+ stores. | Power BI, DAX, SQL |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+  <h3>🛒 Shoppers Intent MLOps</h3>
+  <p>Production-grade MLOps pipeline predicting online purchase intent — full ETL → Train → Track → Serve → Monitor → Retrain loop, with scheduled retraining and drift detection.</p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" />
+  <br/><br/>
+  <a href="https://github.com/AkhileshPatil07/Shoppers_Intent_MLOPS_Project">🔗 Repo</a>
+</td>
+    <td width="33%" valign="top">
+      <h3>💻 Laptop Price Prediction</h3>
+      <p>Modular ML pipeline predicting laptop prices from specs — ingestion, transformation, training, and prediction as independently testable stages, deployed via Streamlit.</p>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AkhileshPatil07/Laptop_Price_Prediction">🔗 Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💬 Opinion Metrix AI</h3>
+      <p>Transformer-based sentiment analysis system — fine-tunes a Hugging Face transformer on customer reviews, persists predictions to a database, and serves results via Streamlit.</p>
+      <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AkhileshPatil07/Opinion_Metrix_AI_Sentiment_Transformer_Project">🔗 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>👥 HR Attrition Prediction</h3>
+      <p>Predicts employee attrition risk with class-imbalance handling and feature-importance explainability. Random Forest hit 0.965 ROC-AUC vs. 0.790 for Logistic Regression.</p>
+      <img src="https://img.shields.io/badge/Random%20Forest-3B7A57?style=flat-square" />
+      <img src="https://img.shields.io/badge/ROC--AUC%200.965-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/AkhileshPatil07/HR_Analytics_Employee_Attrition_Project">🔗 Repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📧 Spam Email Classifier</h3>
+      <p>End-to-end spam/ham classifier evaluating SVM, Logistic Regression, Decision Trees & Random Forest, with an mbox batch-processing UI and 5-fold CV model selection.</p>
+      <img src="https://img.shields.io/badge/SVM-D14836?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AkhileshPatil07/Spam_Email_Classifier_E2E_ML_Project">🔗 Repo</a>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
